@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-07-19T22:34:22 IST" name="Suite" finished-at="2024-07-19T22:34:34 IST" duration-ms="11818">
+    <groups>
+    </groups>
+    <test started-at="2024-07-19T22:34:22 IST" name="Test" finished-at="2024-07-19T22:34:34 IST" duration-ms="11818">
+      <class name="day5.deleteuser">
+        <test-method signature="tesdeleteuser(org.testng.ITestContext)[pri:0, instance:day5.deleteuser@8dbdac1]" started-at="2024-07-19T22:34:32 IST" name="tesdeleteuser" finished-at="2024-07-19T22:34:34 IST" duration-ms="1747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@70325e14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tesdeleteuser -->
+      </class> <!-- day5.deleteuser -->
+      <class name="day5.getuser">
+        <test-method signature="testgetuser(org.testng.ITestContext)[pri:0, instance:day5.getuser@5e0826e7]" started-at="2024-07-19T22:34:30 IST" name="testgetuser" finished-at="2024-07-19T22:34:31 IST" duration-ms="1062" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@70325e14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testgetuser -->
+      </class> <!-- day5.getuser -->
+      <class name="day5.createuser">
+        <test-method signature="testcreateuser(org.testng.ITestContext)[pri:0, instance:day5.createuser@4d9e68d0]" started-at="2024-07-19T22:34:22 IST" name="testcreateuser" finished-at="2024-07-19T22:34:30 IST" duration-ms="7149" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@70325e14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcreateuser -->
+      </class> <!-- day5.createuser -->
+      <class name="day5.updateuser">
+        <test-method signature="testupdateuser(org.testng.ITestContext)[pri:0, instance:day5.updateuser@32eff876]" started-at="2024-07-19T22:34:31 IST" name="testupdateuser" finished-at="2024-07-19T22:34:32 IST" duration-ms="1673" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@70325e14]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testupdateuser -->
+      </class> <!-- day5.updateuser -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
